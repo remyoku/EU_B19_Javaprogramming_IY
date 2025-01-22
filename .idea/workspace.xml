@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="ilk commit">
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C01_ArtıkYil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C02_AdvancedSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C03_TernaryOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C04_TernaryExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C05_TernaryExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C06_IfElseTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C07_NestedTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C08_SwitchCaseToTernary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +49,8 @@
     <setting file="file://$PROJECT_DIR$/src/day11_If_ElseIf_Nestedit/C04_Calculator.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day12_Switch_Case/C04_AdvencedSwitch.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day12_Switch_Case/C06_Calculator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day13_Ternary/C03_TernaryOperators.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day13_Ternary/C07_NestedTernary.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,23 +61,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
-  <component name="RunManager" selected="Application.C09_Homework1">
-    <configuration name="C04_AdvencedSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C04_AdvencedSwitch" />
+}]]></component>
+  <component name="RunManager" selected="Application.C08_SwitchCaseToTernary">
+    <configuration name="C04_TernaryExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C04_TernaryExample1" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="PATTERN" value="day13_Ternary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_SwitchCaseExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C05_SwitchCaseExamples" />
+    <configuration name="C05_TernaryExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C05_TernaryExample2" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="PATTERN" value="day13_Ternary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C06_Calculator" />
+    <configuration name="C06_IfElseTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C06_IfElseTernary" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="PATTERN" value="day13_Ternary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_SwitchCaseBankMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C07_SwitchCaseBankMenu" />
+    <configuration name="C07_NestedTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C07_NestedTernary" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="PATTERN" value="day13_Ternary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C09_Homework1" />
+    <configuration name="C08_SwitchCaseToTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C08_SwitchCaseToTernary" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="PATTERN" value="day13_Ternary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C09_Homework1" />
-        <item itemvalue="Application.C07_SwitchCaseBankMenu" />
-        <item itemvalue="Application.C06_Calculator" />
-        <item itemvalue="Application.C05_SwitchCaseExamples" />
-        <item itemvalue="Application.C04_AdvencedSwitch" />
+        <item itemvalue="Application.C08_SwitchCaseToTernary" />
+        <item itemvalue="Application.C07_NestedTernary" />
+        <item itemvalue="Application.C06_IfElseTernary" />
+        <item itemvalue="Application.C05_TernaryExample2" />
+        <item itemvalue="Application.C04_TernaryExample1" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +156,14 @@
       <option name="presentableId" value="Default" />
       <updated>1735841227959</updated>
     </task>
+    <task id="LOCAL-00001" summary="ilk commit">
+      <created>1737567224545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737567224545</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +176,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ilk commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="ilk commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
