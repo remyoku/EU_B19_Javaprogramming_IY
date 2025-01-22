@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/day05_Veriables_cont/C01_Variables.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assigment_Reletional_Logical_Operators/C07_RelationalOperators.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assigment_Reletional_Logical_Operators/C08_LogicalAND.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assigment_Reletional_Logical_Operators/C12_PrecedenceOfLogicalOperators.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assigment_Reletional_Logical_Operators/C13_LogicalORveANDOperator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day09_Review/C03_ClassTask2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day09_Review/C06_LogicalOperatorsExample.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day09_Review/C08_BodyMassIndex.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day10_IfStatements/C01_If_Intro.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day10_IfStatements/C02_If_Cont.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day10_IfStatements/C04_ClassTask.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day10_IfStatements/C06_If_ElseIf.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day10_IfStatements/C09_Homework.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day11_If_ElseIf_Nestedit/C01_Summary.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day11_If_ElseIf_Nestedit/C03_ElseIf_Examples.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day11_If_ElseIf_Nestedit/C04_Calculator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day12_Switch_Case/C04_AdvencedSwitch.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day12_Switch_Case/C06_Calculator.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2r5FqfJeyFTVI6Af2fzDlYFOOMb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.C09_Homework1">
+    <configuration name="C04_AdvencedSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C04_AdvencedSwitch" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_SwitchCaseExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C05_SwitchCaseExamples" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C06_Calculator" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_SwitchCaseBankMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C07_SwitchCaseBankMenu" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C09_Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C09_Homework1" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C09_Homework1" />
+        <item itemvalue="Application.C07_SwitchCaseBankMenu" />
+        <item itemvalue="Application.C06_Calculator" />
+        <item itemvalue="Application.C05_SwitchCaseExamples" />
+        <item itemvalue="Application.C04_AdvencedSwitch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="" />
+      <created>1735841227959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735841227959</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

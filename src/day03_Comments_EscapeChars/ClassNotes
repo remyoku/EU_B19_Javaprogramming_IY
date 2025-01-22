@@ -1,0 +1,72 @@
+day03
+    files & their extensions
+
+        text file                                 .txt
+        PDF files                                 .pdf
+        Picture                                   .jpg, .png, .gif,. tiff etc
+        word document                             .doc
+        excel files                               .xlsx
+        power point                               .ppt
+        java files                                .java  --- (source code)
+        java file                                 .class --- (Byte code)
+
+
+        how to open preference window:
+            windows:
+               files -> settings
+
+        How to rename?
+            right click -> refactor -->rename
+
+        How to create project?
+             file -> new --> project
+
+        package : used for storing java files in an organized manner
+               right click --> new > package
+
+               package names starts with lower_case_letter
+
+
+        Java File:
+
+                 right click -->  new  -->  Java Class
+
+                  class name -- starts with UpperCaseLetter
+
+                  CamelCase
+
+
+        Screenshot      PRTSC Win+Shift+S
+
+
+         //çoğaltmak istediğimizde ctrl + d ile bunu çoğalta bilirsin.
+                // comment satırı oluşturmak için shift + 7 iki kere // bu şekilde
+
+                // single line comment bir satır yorumu
+
+                /*
+                bu iki ifadenin arasına istediğimiz kadar yorum satırı yazabiliriz shift + 7 *  yapmamız lazım.
+              ve yorum satırları bizim problem çözmede yardımcımız olacak. kodu çalıştırdık ama terminalde hatanın 9 ve 10 uncu
+              satır olduğunu söylüyor hemen onları commente alıp işimize devam edip sonra dönüp bakabiliriz. Multi Line Comment
+                 */
+
+                  // system.out.println tek tek yazmak yerine sout yazmamız yeterli
+
+                  /*
+                          System.out.println(): used for regular outputs (Black-- siyah)
+                          System.err.println(): used for printing error messages (Red -- kırmızı)
+                           */
+
+// java aradaki boşlukları görmez (spaces are not considerd in java compiling
+
+    /*
+    \n   --> Yeni satır   new line
+    \t  ---> bir tab boşluk bırakır
+    \b   --> Backspace
+    \"   -->  "
+    \r   ---> satır başı
+    \\   --> \
+
+ */
+
+  // CTRL + ALT + L bizim sayfa düzenimizi sağlar

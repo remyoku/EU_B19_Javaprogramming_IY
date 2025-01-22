@@ -1,0 +1,38 @@
+Day 11
+     Single If : for condition
+           if(conditon){
+           Statement A
+           }
+
+       If & eLSE : Where there are two Option / possibilities
+
+           if(condition){
+           Statement A;
+           Statement B;
+           }else{
+           Statement C;
+           Statement D;
+           }
+
+           Statement A, B : if condition is True
+           Statement C, D : if condition is False
+
+          Multi Branch If : when there are three or more options
+
+             if(condition){
+             Statement A;
+             Statement B;
+             }else if (condition 2){
+             Statement C;
+             Statement D;
+             }else {
+             Statement E;
+             Statement F;
+             }
+
+            Statement A, B : if condition 1 is True
+            Statement C, D : if condition 2 is True and condition 1 is False
+            Statement E, F : if condition 1 and 2 are False
+
+
+            Only one block gets executed.- Sadece bir blok çalıştırılır.

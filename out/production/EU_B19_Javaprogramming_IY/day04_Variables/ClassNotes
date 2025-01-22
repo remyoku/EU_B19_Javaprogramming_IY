@@ -1,0 +1,34 @@
+Java Day 04
+
+    Primitive Data Types
+      declearing variable:
+
+      dataType variableName = data;
+
+      int i1=5;
+      int i2;
+      i2=10;
+
+      int i3, i4;
+      i3=3;
+      i4=4;
+
+      int i5=5, i6=6;
+
+    numerical primitives:
+          double > float > long > int > short > byte
+
+    primitives:
+       int: for integers
+       double: for decimals
+       char : for single character- ''  single quote
+       boolean : true or false
+
+    Non Primitive:
+       String : squence of characters, String of text ---  "" double quote
+          String name = "Ahmet";
+
+
+     CTRL + ALT+ L
+
+
