@@ -22,32 +22,25 @@ public class C09_Homework1 {
         System.out.println("Müşteri Kartınız var mı ? Evet/Hayır");
         String cevap = input.next();
 
-        double toplamFiyat = urunAdedi * urunFiyati;
-        double indirimliFiyat = toplamFiyat;
-
+        double toplamFiyat= urunAdedi*urunFiyati;
 
         if (cevap.equalsIgnoreCase("Evet")){
             if (urunAdedi >= 10){
-                indirimliFiyat = toplamFiyat*0.80;
-                System.out.println("indirimliFiyat = " + indirimliFiyat);
-            }else{
-                indirimliFiyat = toplamFiyat*0.85;
-                System.out.println("indirimliFiyat = " + indirimliFiyat);
-            }
+                System.out.println( toplamFiyat*0.2 + " TL indirim kazandınız.");
 
-        } else if (cevap.equalsIgnoreCase("Hayır")) {
-            if (urunAdedi >= 10){
-                indirimliFiyat = toplamFiyat * 0.85;
-                System.out.println("indirimliFiyat = " + indirimliFiyat);
+            } else  {
+                System.out.println(toplamFiyat*0.15 + " TL indirim kazandınız.");
+
+            }
+        }else if (cevap.equalsIgnoreCase("Hayır")){
+            if (urunAdedi >=10){
+                System.out.println(toplamFiyat*0.15 + " TL indirim kazandınız.");
             }else {
-                indirimliFiyat = toplamFiyat*0.90;
-                System.out.println("indirimliFiyat = " + indirimliFiyat);
+                System.out.println(toplamFiyat*0.10 + " TL indirim kazandınız.");
             }
-
         }else {
-            System.out.println("Geçersiz Cevap Girdiniz");
+            System.out.println("Yanlış veri girdiniz.");
         }
 
-        System.out.println("Toplam ödemeniz gereken tutar: " +indirimliFiyat + " TL ");
     }
 }
