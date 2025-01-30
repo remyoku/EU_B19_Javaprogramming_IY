@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="NEWw">
-      <change afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C02_WhileLoops2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C03_Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C04_DoWhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C05_Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C06_SayıTahminOyunu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C07_SayıTahminOyunu_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EU_B19_Javaprogramming_IY.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EU_B19_Javaprogramming_IY.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_DoWhileLoops/C01_WhileLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C01_WhileLoops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,7 @@
     <setting file="file://$PROJECT_DIR$/src/day08_Assigment_Reletional_Logical_Operators/C08_LogicalAND.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day08_Assigment_Reletional_Logical_Operators/C12_PrecedenceOfLogicalOperators.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day08_Assigment_Reletional_Logical_Operators/C13_LogicalORveANDOperator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day09_Review/C01_FirstMain.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/day09_Review/C03_ClassTask2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day09_Review/C06_LogicalOperatorsExample.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day09_Review/C08_BodyMassIndex.java" root0="SKIP_INSPECTION" />
@@ -65,8 +67,13 @@
     <setting file="file://$PROJECT_DIR$/src/day15_ForLoops/C09_SayiBasamakDegeriToplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day16_NestedForLoops/C02_Task2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day16_NestedForLoops/C04_Continue.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C01_WhileLoops.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C03_Task_1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C01_WhileLoops.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C02_WhileLoops2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C03_Task_1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C04_DoWhileLoops.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C05_Task_2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C06_SayıTahminOyunu.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C07_SayıTahminOyunu_2.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,45 +88,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Users/Belgelerim/IdeaProjects/EU_B19_Javaprogramming_IY",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C03_Task_1">
+  <component name="RunManager" selected="Application.C06_SayıTahminOyunu">
     <configuration name="C01_FirstMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day09_Review.C01_FirstMain" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day09_Review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_WhileLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17_DoWhileLoops.C01_WhileLoops" />
-      <module name="EU_B19_Javaprogramming_IY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day17_DoWhileLoops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_WhileLoops2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17_DoWhileLoops.C02_WhileLoops2" />
-      <module name="EU_B19_Javaprogramming_IY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day17_DoWhileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +122,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16_NestedForLoops.C04_Continue" />
+    <configuration name="C04_DoWhileLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_DoWhileLoops.C04_DoWhileLoops" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_NestedForLoops.*" />
+          <option name="PATTERN" value="day17_DoWhileLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_DoWhileLoops.C05_Task_2" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_DoWhileLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_SayıTahminOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_DoWhileLoops.C06_SayıTahminOyunu" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_DoWhileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C06_SayıTahminOyunu" />
+        <item itemvalue="Application.C05_Task_2" />
+        <item itemvalue="Application.C04_DoWhileLoops" />
         <item itemvalue="Application.C03_Task_1" />
         <item itemvalue="Application.C01_FirstMain" />
-        <item itemvalue="Application.C02_WhileLoops2" />
-        <item itemvalue="Application.C01_WhileLoops" />
-        <item itemvalue="Application.C04_Continue" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738257285239</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="NEWw">
+      <created>1738263110328</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738263110329</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
