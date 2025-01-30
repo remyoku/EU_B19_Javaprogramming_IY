@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="NEW">
-      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C01_ForLoop_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C02_ForLoop_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C03_ForLoop_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C04_KalansizBolunenler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C05_TekCiftTopla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C06_Faktoriyel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C07_ForLoop_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C08_DinamikLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C09_SayiBasamakDegeriToplama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day16_NestedForLoops/C01_NestedForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day16_NestedForLoops/C02_Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day16_NestedForLoops/C02_Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16_NestedForLoops/C03_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16_NestedForLoops/C04_Continue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_NestedForLoops/C02_Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16_NestedForLoops/C02_Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +62,7 @@
     <setting file="file://$PROJECT_DIR$/src/day15_ForLoops/C05_TekCiftTopla.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day15_ForLoops/C09_SayiBasamakDegeriToplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day16_NestedForLoops/C02_Task2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day16_NestedForLoops/C04_Continue.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -91,7 +83,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C02_Task2">
+  <component name="RunManager" selected="Application.C04_Continue">
     <configuration name="C01_NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day16_NestedForLoops.C01_NestedForLoops" />
       <module name="EU_B19_Javaprogramming_IY" />
@@ -131,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_DinamikLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15_ForLoops.C08_DinamikLoop" />
+    <configuration name="C03_Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16_NestedForLoops.C03_Break" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15_ForLoops.*" />
+          <option name="PATTERN" value="day16_NestedForLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_SayiBasamakDegeriToplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15_ForLoops.C09_SayiBasamakDegeriToplama" />
+    <configuration name="C04_Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16_NestedForLoops.C04_Continue" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15_ForLoops.*" />
+          <option name="PATTERN" value="day16_NestedForLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04_Continue" />
+        <item itemvalue="Application.C03_Break" />
         <item itemvalue="Application.C02_Task2" />
         <item itemvalue="Application.C02_Task1" />
         <item itemvalue="Application.C01_NestedForLoops" />
-        <item itemvalue="Application.C09_SayiBasamakDegeriToplama" />
-        <item itemvalue="Application.C08_DinamikLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737667625690</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="NEW">
+      <created>1738170262964</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738170262964</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
