@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="NEWw">
-      <change afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C04_DoWhileLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C05_Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C06_SayıTahminOyunu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17_DoWhileLoops/C07_SayıTahminOyunu_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C01_DoWhile_WhileLoops1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C02_DoWhile_WhileLoops2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C03_Alfabe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C04_CarpanlaraAyirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C05_Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C06_ReversNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C07_WhileLoopBreak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C08_WhileInfiniteLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C09_AgeVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C10_NestedLoopsBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C11_WhileContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C12_ForLoopContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C13_NestedLoopsContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C14_WhileLoopContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C15_LabeledDoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C16_LabeledForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C17_ReturnExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C18_SwitchContinueLabeled.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EU_B19_Javaprogramming_IY.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EU_B19_Javaprogramming_IY.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +87,10 @@
     <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C05_Task_2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C06_SayıTahminOyunu.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day17_DoWhileLoops/C07_SayıTahminOyunu_2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C03_Alfabe.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C04_CarpanlaraAyirma.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C15_LabeledDoWhileLoop.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C18_SwitchContinueLabeled.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,24 +101,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Belgelerim/IdeaProjects/EU_B19_Javaprogramming_IY",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Belgelerim/IdeaProjects/EU_B19_Javaprogramming_IY&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.C06_SayıTahminOyunu">
-    <configuration name="C01_FirstMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_Review.C01_FirstMain" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day18_Review_BranchmentAndLabeledStatements" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.C18_SwitchContinueLabeled">
+    <configuration name="C14_WhileLoopContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18_Review_BranchmentAndLabeledStatements.C14_WhileLoopContinue" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_Review.*" />
+          <option name="PATTERN" value="day18_Review_BranchmentAndLabeledStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17_DoWhileLoops.C03_Task_1" />
+    <configuration name="C15_LabeledDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18_Review_BranchmentAndLabeledStatements.C15_LabeledDoWhileLoop" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17_DoWhileLoops.*" />
+          <option name="PATTERN" value="day18_Review_BranchmentAndLabeledStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_DoWhileLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17_DoWhileLoops.C04_DoWhileLoops" />
+    <configuration name="C16_LabeledForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18_Review_BranchmentAndLabeledStatements.C16_LabeledForLoop" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17_DoWhileLoops.*" />
+          <option name="PATTERN" value="day18_Review_BranchmentAndLabeledStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17_DoWhileLoops.C05_Task_2" />
+    <configuration name="C17_ReturnExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18_Review_BranchmentAndLabeledStatements.C17_ReturnExample" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17_DoWhileLoops.*" />
+          <option name="PATTERN" value="day18_Review_BranchmentAndLabeledStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_SayıTahminOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17_DoWhileLoops.C06_SayıTahminOyunu" />
+    <configuration name="C18_SwitchContinueLabeled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18_Review_BranchmentAndLabeledStatements.C18_SwitchContinueLabeled" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17_DoWhileLoops.*" />
+          <option name="PATTERN" value="day18_Review_BranchmentAndLabeledStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06_SayıTahminOyunu" />
-        <item itemvalue="Application.C05_Task_2" />
-        <item itemvalue="Application.C04_DoWhileLoops" />
-        <item itemvalue="Application.C03_Task_1" />
-        <item itemvalue="Application.C01_FirstMain" />
+        <item itemvalue="Application.C18_SwitchContinueLabeled" />
+        <item itemvalue="Application.C17_ReturnExample" />
+        <item itemvalue="Application.C16_LabeledForLoop" />
+        <item itemvalue="Application.C15_LabeledDoWhileLoop" />
+        <item itemvalue="Application.C14_WhileLoopContinue" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738263110329</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="NEWw">
+      <created>1738270066494</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738270066494</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
