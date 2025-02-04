@@ -4,25 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="NEWw">
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C01_DoWhile_WhileLoops1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C02_DoWhile_WhileLoops2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C03_Alfabe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C04_CarpanlaraAyirma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C05_Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C06_ReversNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C07_WhileLoopBreak1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C08_WhileInfiniteLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C09_AgeVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C10_NestedLoopsBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C11_WhileContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C12_ForLoopContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C13_NestedLoopsContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C14_WhileLoopContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C15_LabeledDoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C16_LabeledForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C17_ReturnExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C18_SwitchContinueLabeled.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="brenching and labeled statement">
+      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C19_Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C01_SayHi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C02_BuyukSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C03_UniqueNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C04_DebuggingMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C05_MethodsInLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C06_Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C07_Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C08_HierarchicalMethodCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C09_DeepDeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C10_CreditEligible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C11_GoogleShopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C12_ReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C13_ParametrizedMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +87,9 @@
     <setting file="file://$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C04_CarpanlaraAyirma.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C15_LabeledDoWhileLoop.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C18_SwitchContinueLabeled.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C19_Homework.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C06_Door.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C07_Amazon.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -117,13 +116,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C18_SwitchContinueLabeled">
-    <configuration name="C14_WhileLoopContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18_Review_BranchmentAndLabeledStatements.C14_WhileLoopContinue" />
+  <component name="RunManager" selected="Application.C13_ParametrizedMethod">
+    <configuration name="C08_HierarchicalMethodCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C08_HierarchicalMethodCall" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18_Review_BranchmentAndLabeledStatements.*" />
+          <option name="PATTERN" value="day19_Methods1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C15_LabeledDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18_Review_BranchmentAndLabeledStatements.C15_LabeledDoWhileLoop" />
+    <configuration name="C09_DeepDeeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C09_DeepDeeper" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18_Review_BranchmentAndLabeledStatements.*" />
+          <option name="PATTERN" value="day19_Methods1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C16_LabeledForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18_Review_BranchmentAndLabeledStatements.C16_LabeledForLoop" />
+    <configuration name="C11_GoogleShopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C11_GoogleShopping" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18_Review_BranchmentAndLabeledStatements.*" />
+          <option name="PATTERN" value="day19_Methods1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C17_ReturnExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18_Review_BranchmentAndLabeledStatements.C17_ReturnExample" />
+    <configuration name="C12_ReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C12_ReturnType" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18_Review_BranchmentAndLabeledStatements.*" />
+          <option name="PATTERN" value="day19_Methods1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C18_SwitchContinueLabeled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18_Review_BranchmentAndLabeledStatements.C18_SwitchContinueLabeled" />
+    <configuration name="C13_ParametrizedMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C13_ParametrizedMethod" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18_Review_BranchmentAndLabeledStatements.*" />
+          <option name="PATTERN" value="day19_Methods1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C18_SwitchContinueLabeled" />
-        <item itemvalue="Application.C17_ReturnExample" />
-        <item itemvalue="Application.C16_LabeledForLoop" />
-        <item itemvalue="Application.C15_LabeledDoWhileLoop" />
-        <item itemvalue="Application.C14_WhileLoopContinue" />
+        <item itemvalue="Application.C13_ParametrizedMethod" />
+        <item itemvalue="Application.C12_ReturnType" />
+        <item itemvalue="Application.C11_GoogleShopping" />
+        <item itemvalue="Application.C09_DeepDeeper" />
+        <item itemvalue="Application.C08_HierarchicalMethodCall" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738270066494</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="brenching and labeled statement">
+      <created>1738614760805</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738614760805</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,7 +291,8 @@
     <MESSAGE value="last commit of day 14" />
     <MESSAGE value="NEW" />
     <MESSAGE value="NEWw" />
-    <option name="LAST_COMMIT_MESSAGE" value="NEWw" />
+    <MESSAGE value="brenching and labeled statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="brenching and labeled statement" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
