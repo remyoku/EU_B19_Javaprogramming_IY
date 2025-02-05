@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="method">
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C14_Homework1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C15_Homework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C16_Homework3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C17_Homework4.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="method new">
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C01_CustomMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C02_CustomMethodpractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C03_MethodsWithParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C04_PracticeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C05_MethodsTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C06_PracticeWithReturn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day19_Methods1/C13_ParametrizedMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day19_Methods1/C13_ParametrizedMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day19_Methods1/C17_Homework4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day19_Methods1/C17_Homework4.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +85,8 @@
     <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C07_Amazon.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C16_Homework3.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C17_Homework4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day20_CustomMethods/C03_MethodsWithParameters.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day20_CustomMethods/C04_PracticeTask.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -109,13 +113,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C17_Homework4">
-    <configuration name="C13_ParametrizedMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C13_ParametrizedMethod" />
+  <component name="RunManager" selected="Application.C06_PracticeWithReturn">
+    <configuration name="C01_CustomMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_CustomMethods.C01_CustomMethods" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Methods1.*" />
+          <option name="PATTERN" value="day20_CustomMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C14_Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C14_Homework1" />
+    <configuration name="C02_CustomMethodpractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_CustomMethods.C02_CustomMethodpractice" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Methods1.*" />
+          <option name="PATTERN" value="day20_CustomMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C15_Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C15_Homework2" />
+    <configuration name="C03_MethodsWithParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_CustomMethods.C03_MethodsWithParameters" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Methods1.*" />
+          <option name="PATTERN" value="day20_CustomMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C16_Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C16_Homework3" />
+    <configuration name="C04_PracticeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_CustomMethods.C04_PracticeTask" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Methods1.*" />
+          <option name="PATTERN" value="day20_CustomMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C17_Homework4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C17_Homework4" />
+    <configuration name="C06_PracticeWithReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_CustomMethods.C06_PracticeWithReturn" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Methods1.*" />
+          <option name="PATTERN" value="day20_CustomMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C17_Homework4" />
-        <item itemvalue="Application.C16_Homework3" />
-        <item itemvalue="Application.C15_Homework2" />
-        <item itemvalue="Application.C14_Homework1" />
-        <item itemvalue="Application.C13_ParametrizedMethod" />
+        <item itemvalue="Application.C06_PracticeWithReturn" />
+        <item itemvalue="Application.C04_PracticeTask" />
+        <item itemvalue="Application.C03_MethodsWithParameters" />
+        <item itemvalue="Application.C02_CustomMethodpractice" />
+        <item itemvalue="Application.C01_CustomMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738700785066</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="method new">
+      <created>1738705445299</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738705445299</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,7 +304,8 @@
     <MESSAGE value="NEWw" />
     <MESSAGE value="brenching and labeled statement" />
     <MESSAGE value="method" />
-    <option name="LAST_COMMIT_MESSAGE" value="method" />
+    <MESSAGE value="method new" />
+    <option name="LAST_COMMIT_MESSAGE" value="method new" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
