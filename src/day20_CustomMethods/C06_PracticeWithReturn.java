@@ -4,6 +4,7 @@ public class C06_PracticeWithReturn {
     public static void main(String[] args) {
 
         System.out.println(oddNumber());
+        System.out.println(evenNumber());
 
         System.out.println(isEligibleToBuyAlcohol(14));
 
@@ -29,7 +30,14 @@ public class C06_PracticeWithReturn {
      *
      * @return
      */
+    public static String evenNumber(){
+        String result = "";
+        for (int i = 0; i <=100 ; i+=2) {
+            result +=i + " ";
+        }
 
+        return result;
+    }
 
     // create a method that can check if a person is eligible to buy alcohol
 

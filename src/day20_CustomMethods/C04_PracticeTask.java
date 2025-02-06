@@ -11,6 +11,7 @@ public class C04_PracticeTask {
 
         System.out.println(perimeterOfSquare(9));
 
+
     }
     //dairenin alanını hesaplayan bir method yazınız.
 

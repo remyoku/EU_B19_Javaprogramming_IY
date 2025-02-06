@@ -102,7 +102,7 @@ If Expert display level=5
 12-December
 
          */
-       /* Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("Lütfen Ay Giriniz (1-12) : ");
         int month = input.nextInt();
         String monthName = " ";
@@ -122,7 +122,7 @@ If Expert display level=5
             case 12 -> monthName = "December";
             default -> System.out.println("Yanlış değer girdiniz");
         }
-        System.out.println("monthName = " + monthName);*/
+        System.out.println("monthName = " + monthName);
 
 
     }

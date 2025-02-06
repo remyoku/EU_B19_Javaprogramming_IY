@@ -1,0 +1,41 @@
+Day19
+
+Return Methods - Overloading
+
+            /** +Enter ---> Method Description
+
+            Başka bir classın methodunu çağırıken
+            bulunduğumuz classta
+            ClassAdı.methodAdi()  --  yazarak çağırabiliriz.
+
+
+            Method Overloading
+                Multiple different methods sharing the same NAME
+                - same MethodName, different parameters
+                - return type, access modifiers, specifier can be same or different
+
+
+            Advamtages
+                1. easy to remember
+                2. easy to read(readable)
+                3. reusable
+                4. flexible
+
+       Task:
+
+
+       //	1. create return  method that can check if a person is eligible to vote
+                   //    Ex:
+                   //				eligibleToVote(19, "TR");
+                   //
+                   //			output:
+                   //				You are not eligible to vote!
+
+
+
+                  //	5. create a method that returns calculate the grade of the student based on the score
+                  // score >= 90 grade 'A'
+                  // score >= 80 grade 'B'
+                  // score >= 70 grade 'C'
+                  // score >= 60 grade 'D'
+                  // score < 60 grade 'F'
