@@ -4,23 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="Method Over Loading">
-      <change afterPath="$PROJECT_DIR$/src/day22_ClassObject/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_ClassObject/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_ClassObject/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_ClassObject/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_ClassObject/Math2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_ClassObject/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_ClassObject/day22_ClassNote" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/C01_DebuggingMethodCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/C02_HierarcicalMethodCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/C03_Google.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/C04_HesapMakinası.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/MobilePhone.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="Method">
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C01_UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C02_UsersInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C03_SayılarınOrtalaması.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C04_ScannerProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C05_ScannerFromTxtFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C06_ScannerFromTxtFile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C07_ScannerWithPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/scanner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C01_RandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C02_RandomPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C03_NumberPicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C04_Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C05_MathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C06_MathRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C07_DateTimeClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +106,8 @@
     <setting file="file://$PROJECT_DIR$/src/day22_ClassObject/Person.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day23_Review/C03_Google.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day23_Review/C04_HesapMakinası.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day23_Review/MobilePhone.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C06_MathRandom.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -125,7 +126,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -133,13 +134,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="C02_HierarcicalMethodCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_Review.C02_HierarcicalMethodCall" />
+  <component name="RunManager" selected="Application.C07_DateTimeClass">
+    <configuration name="C04_Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Class.C04_Dice" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_Review.*" />
+          <option name="PATTERN" value="day25_Random_Math_Date_Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Google" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_Review.C03_Google" />
+    <configuration name="C05_MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Class.C05_MathClass" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_Review.*" />
+          <option name="PATTERN" value="day25_Random_Math_Date_Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_HesapMakinası" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_Review.C04_HesapMakinası" />
+    <configuration name="C06_MathRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Class.C06_MathRandom" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_Review.*" />
+          <option name="PATTERN" value="day25_Random_Math_Date_Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_Review.DogTest" />
+    <configuration name="C07_DateTimeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Class.C07_DateTimeClass" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_Review.*" />
+          <option name="PATTERN" value="day25_Random_Math_Date_Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_Review.Main" />
+    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Class.MathClass" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_Review.*" />
+          <option name="PATTERN" value="day25_Random_Math_Date_Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DogTest" />
-        <item itemvalue="Application.C04_HesapMakinası" />
-        <item itemvalue="Application.C03_Google" />
-        <item itemvalue="Application.C02_HierarcicalMethodCall" />
+        <item itemvalue="Application.C07_DateTimeClass" />
+        <item itemvalue="Application.C06_MathRandom" />
+        <item itemvalue="Application.C05_MathClass" />
+        <item itemvalue="Application.MathClass" />
+        <item itemvalue="Application.C04_Dice" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738883124422</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Method">
+      <created>1739450256358</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739450256358</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,18 +356,8 @@
     <MESSAGE value="method new" />
     <MESSAGE value="method practice" />
     <MESSAGE value="Method Over Loading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method Over Loading" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day23_Review/C01_DebuggingMethodCall.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
