@@ -1,0 +1,34 @@
+Java -- OOP --> OBJECT ORIENTED PROGRAMMING --> NESNE YÖNELİMLİ PRIGRAMLAMA DİLİ
+
+
+
+                    Classname  objename = new Classname();
+
+
+                    Stack Memory          ---      Heap Memory      ( iki tane memory var.)
+                    objenin adı                    nesneye ait
+                    burda tutuluyor                özellikler burda tutuluyor
+                    exp-> car1                     car1.model, car1.hız, car1.marka
+
+
+Static Non Static Methods and Variables
+
+           Static Method ve Değişkeler ---> classa aittir ve class adı ile çağrılır.
+            Classname.VariableName;
+            Classname.MethodName;
+
+
+            Static olmayan değişken ve method Objeye aittir.Nesne oluşturulmadan çağrılmaz.
+            Classname cls = new Classname();
+            cls.VariableName;
+            cls.MethodName;
+
+
+TASK;
+       Math2 adında bir class oluşturun.
+       pow methodu yazın.--- pow(num1,num2)
+       iki sayı alacak ve birinci sayı taban ikinci sayı kuvvet olacak.
+       2 üzeri 4 = 2*2*2*2
+
+       1.si obje oluşturmadan methodu farklı bir Main Classta çağırın.
+       2.si obje oluşturarak methodu farklı bir main classta çağırın
