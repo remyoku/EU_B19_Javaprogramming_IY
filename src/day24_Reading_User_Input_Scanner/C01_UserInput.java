@@ -16,3 +16,4 @@ public class C01_UserInput {
         System.out.println("İsminiz: " +name);
     }
 }
+

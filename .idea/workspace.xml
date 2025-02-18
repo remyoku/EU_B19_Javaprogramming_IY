@@ -5,22 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="Method">
-      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C01_UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C02_UsersInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C03_SayılarınOrtalaması.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C04_ScannerProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C05_ScannerFromTxtFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C06_ScannerFromTxtFile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C07_ScannerWithPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/scanner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C01_RandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C02_RandomPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C03_NumberPicker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C04_Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C05_MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C06_MathRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C07_DateTimeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C08_Ders Tekrarı" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C09_DersTekrarı1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C01_StringIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C02_StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C03_IsEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C04_StartsWithEndsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C05_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C06_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C07_Initials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C08_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/day26_ClassNotes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C01_UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C01_UserInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +105,8 @@
     <setting file="file://$PROJECT_DIR$/src/day23_Review/C04_HesapMakinası.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day23_Review/MobilePhone.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C06_MathRandom.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C09_DersTekrarı1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day26_StringClass01/C02_StringMethods.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -118,29 +117,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Belgelerim/IdeaProjects/EU_B19_JavaProgramming",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Belgelerim/IdeaProjects/EU_B19_JavaProgramming&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C07_DateTimeClass">
-    <configuration name="C04_Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Class.C04_Dice" />
+  <component name="RunManager" selected="Application.C08_Palindrome">
+    <configuration name="C02_StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_StringClass01.C02_StringMethods" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day25_Random_Math_Date_Class.*" />
+          <option name="PATTERN" value="day26_StringClass01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Class.C05_MathClass" />
+    <configuration name="C06_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_StringClass01.C06_ReverseString" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day25_Random_Math_Date_Class.*" />
+          <option name="PATTERN" value="day26_StringClass01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_MathRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Class.C06_MathRandom" />
+    <configuration name="C07_Initials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_StringClass01.C07_Initials" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day25_Random_Math_Date_Class.*" />
+          <option name="PATTERN" value="day26_StringClass01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_DateTimeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Class.C07_DateTimeClass" />
+    <configuration name="C08_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_StringClass01.C08_Palindrome" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day25_Random_Math_Date_Class.*" />
+          <option name="PATTERN" value="day26_StringClass01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Class.MathClass" />
+    <configuration name="b_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_StringClass01.b_2" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day25_Random_Math_Date_Class.*" />
+          <option name="PATTERN" value="day26_StringClass01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C07_DateTimeClass" />
-        <item itemvalue="Application.C06_MathRandom" />
-        <item itemvalue="Application.C05_MathClass" />
-        <item itemvalue="Application.MathClass" />
-        <item itemvalue="Application.C04_Dice" />
+        <item itemvalue="Application.C08_Palindrome" />
+        <item itemvalue="Application.b_2" />
+        <item itemvalue="Application.C02_StringMethods" />
+        <item itemvalue="Application.C07_Initials" />
+        <item itemvalue="Application.C06_ReverseString" />
       </list>
     </recent_temporary>
   </component>

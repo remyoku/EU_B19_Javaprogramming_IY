@@ -1,0 +1,25 @@
+Day26 String Class
+
+    String classı  -- javada temel bir classdır ve birden fazla karakterin birleşimden oluşur.
+    Daha çok text dataların manipüle edilmesinde kullanılır.
+
+
+    1.concat(): String cancatination -- Stringleri birleştirir.  + operatörüylke aynı işlevi görür
+
+    2.lenght() : methodu Stringin uzunluğunu verir.
+
+    Stringlerde karşılaştırma
+
+    3.eguals()  veya egualIgnoreCase() :  methodları metinlerin içeriğinin eşitliğini kontrol eder
+
+    4.toLowerCase()  ve toUpperCase : Metnin tamamını küçük harfe veya büyük harfe çevirir.
+
+    5.trim() : Metnin başındaki ve sondaki boşlukları atar.
+
+    6.replace() : Metin içerisinde ki bir Char Sequence i başka bir cahar seguence ile değiştirir.
+
+    7.charAt() : index numarası ile bize o indexteki cahr ı verir
+
+    8.indexOf: Metin içerindeki herhangi bir harfin ilk indexini verir.
+
+    9.lastIndexOf() : Metin içerisindeki herhangi bir  harfin son indexini verir.

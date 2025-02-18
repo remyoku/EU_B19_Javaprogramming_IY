@@ -1,0 +1,26 @@
+Ders Tekrarı
+
+                                          JAVA
+ Package:                lang                     util                        net
+ Classes:               -System                 -Scanner                     -URL
+                        -Math                   -Random
+                                                 -Date
+
+ - Lang package import etmeye gerek kalmıyor çünkü javanın defoult değeri en küçük paketei bunun içinde
+
+ RANDOM Classes
+ -Random randomNumber = new Random();
+ -System.out.println(randomNumber.nextInt());
+ -ınt , double, float, boolean, long ---> random burda bize rastgele sayılar üretiyor.
+ -Peki belirli bir aralıkta üretmek istersek;
+ -System.out.println(randomNumber.nextInt(10));  0 ile n arasında yani 0-9 10 dahil değil.
+ -System.out.println(randomNumber.nextInt(10)+5); // 5 ile 14 arası
+ -5 bir sınır 5 ile başlayacak 10+5=15 15 n ama 15 dahil değil yani 5 ile 14 arasında sayı üretir.
+ -System.out.println(randomNumber.nextInt(31)+20); yani 20 + 31 = 51 20 sınır 51 yerine 50 yi alacak
+ 20-50 arasını verecek bana.
+
+ for (int i = 0; i < 1000; i++{
+ -int sayı = randomNumber.nextInt(100)+1;    ---> bu şekilde test ederiz
+ -System.out.println("sayı =  " + sayı)
+ }
+ -System.out.println(randomNumber.nextInt(100)+50);
