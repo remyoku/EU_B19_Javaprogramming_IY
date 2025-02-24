@@ -13,6 +13,8 @@ public class C05_Substring {
 
         System.out.println("str.substring(23) = " + str.substring(23));
         System.out.println("str.substring(str.length()-5) = " + str.substring(str.length() - 5));
+        //eğer ben son beşi istiyorsam substringin içinden yazıp alcam
+        //son beş harf üç harf iki harf bunlar lenght()-5,4,3...
         System.out.println("str.substring(str.length()-3) = " + str.substring(str.length() - 3));
 
         System.out.println("str.substring(27) = " + str.substring(27));

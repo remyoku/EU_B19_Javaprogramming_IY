@@ -4,20 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="Method">
-      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C08_Ders Tekrarı" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C09_DersTekrarı1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C01_StringIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C02_StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C03_IsEmpty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C04_StartsWithEndsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C05_Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C06_ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C07_Initials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/C08_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_StringClass01/day26_ClassNotes" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="String Class">
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C01_TwoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C02_Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C03_Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C04_Empty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C05_EmailDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C06_BoslukDoldur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C07_Frekans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C08_UniqChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C09_HarfKaldır.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C10_KarakterSayısı.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/ClassNote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C01_Birthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C01_Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C02_ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C03_StackOverFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C04_HeapOverFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C05_Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C06_VehicleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C01_ArraysIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C02_Arrays02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C03_AlternatifYol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C04_HaftanınGünleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C05_Aylar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C06_ArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C07_ArrayLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C08_AlisVeris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C09_ÜrünAra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C10_LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C11_ArraysToString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C01_UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C01_UserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C01_StringIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C01_StringIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C02_StringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C02_StringMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C05_Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C05_Substring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C08_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C08_Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_StringClass01/C01_StringIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_StringClass01/C01_StringIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_StringClass01/C02_StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_StringClass01/C02_StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_StringClass01/C03_IsEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_StringClass01/C03_IsEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_StringClass01/C05_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_StringClass01/C05_Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_StringClass01/C08_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_StringClass01/C08_Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +133,13 @@
     <setting file="file://$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C06_MathRandom.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day25_Random_Math_Date_Class/C09_DersTekrarı1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day26_StringClass01/C02_StringMethods.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day27_StringClass2/C04_Empty.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day27_StringClass2/C06_BoslukDoldur.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C02_ProductTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C03_StackOverFlow.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day30_Arrays01/C01_ArraysIntro.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day30_Arrays01/C03_AlternatifYol.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day30_Arrays01/C10_LargestNumber.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -133,13 +166,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C08_Palindrome">
-    <configuration name="C02_StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_StringClass01.C02_StringMethods" />
+  <component name="RunManager" selected="Application.C11_ArraysToString">
+    <configuration name="C07_ArrayLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C07_ArrayLoop" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_StringClass01.*" />
+          <option name="PATTERN" value="day30_Arrays01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_StringClass01.C06_ReverseString" />
+    <configuration name="C08_AlisVeris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C08_AlisVeris" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_StringClass01.*" />
+          <option name="PATTERN" value="day30_Arrays01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_Initials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_StringClass01.C07_Initials" />
+    <configuration name="C09_ÜrünAra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C09_ÜrünAra" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_StringClass01.*" />
+          <option name="PATTERN" value="day30_Arrays01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_StringClass01.C08_Palindrome" />
+    <configuration name="C10_LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C10_LargestNumber" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_StringClass01.*" />
+          <option name="PATTERN" value="day30_Arrays01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="b_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_StringClass01.b_2" />
+    <configuration name="C11_ArraysToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C11_ArraysToString" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_StringClass01.*" />
+          <option name="PATTERN" value="day30_Arrays01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C08_Palindrome" />
-        <item itemvalue="Application.b_2" />
-        <item itemvalue="Application.C02_StringMethods" />
-        <item itemvalue="Application.C07_Initials" />
-        <item itemvalue="Application.C06_ReverseString" />
+        <item itemvalue="Application.C11_ArraysToString" />
+        <item itemvalue="Application.C10_LargestNumber" />
+        <item itemvalue="Application.C09_ÜrünAra" />
+        <item itemvalue="Application.C08_AlisVeris" />
+        <item itemvalue="Application.C07_ArrayLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739450256358</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="String Class">
+      <created>1739898476707</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739898476707</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,7 +396,8 @@
     <MESSAGE value="method practice" />
     <MESSAGE value="Method Over Loading" />
     <MESSAGE value="Method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method" />
+    <MESSAGE value="String Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Class" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -12,7 +12,8 @@ public class C08_Palindrome {
         String tersMetin = "";
 
         for (int i = girilenMetin.length()-1; i >=0 ; i--) {
-            tersMetin+=girilenMetin.charAt(i);
+            //tersMetin+=girilenMetin.charAt(i);
+            tersMetin = tersMetin.concat(girilenMetin.substring(i,i+1));
         }
 
             if (girilenMetin.equals(tersMetin)){

@@ -6,10 +6,11 @@ public class C01_StringIntro {
     public static void main(String[] args) {
         System.out.println("Javada String bir obje üretmek");
 
-        /** non primitive bir class
-         * Obje üretile bilen bir değişken
-         * Stringten boje üretmenin iki farklı yolu var.
-         * 1.By String Literal va
+        /** non primitive bir data tipi
+         * Bir şeyin classı varsa ben bundan obje üretebiliriz.
+         * String de obje üretilebilen bir değişken
+         * Stringten obje üretmenin iki farklı yolu var.
+         * 1.By String Literal vaw
          * 2.By new keyword (new String())
 
          */
@@ -21,11 +22,11 @@ public class C01_StringIntro {
         // değişken ismi str1 stack"te olur
         // bunun karşılığında da heapte java oluşuyor.--String pool
 
-        System.out.println("str1 ---> " + System.identityHashCode(str1));
+        System.out.println("str1 ---> " + System.identityHashCode(str1)); //hash kodunun ne olduğunu gösterir.
         System.out.println("str3 ---> " + System.identityHashCode(str3));
 
         //2.By new keyword (new String())
-
+              //Stack                 Heap
         String str2 = new String("Merhaba"); // string poolda değil heapte oluşuyor.
         String str4 = new String("Merhaba"); // new keyword ile oluşturduğumda heapte oluyor.
 

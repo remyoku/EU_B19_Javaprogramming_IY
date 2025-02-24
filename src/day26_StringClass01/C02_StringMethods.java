@@ -35,6 +35,8 @@ public class C02_StringMethods {
         System.out.println("programlamaDili.charAt(programlamaDili.length()-1) = " + programlamaDili.charAt(programlamaDili.length() - 1));
 
         // hiç rakam kullanmadan da bu şekilde verebilirim.
+        //lenght bize uzunluğu verir, ve bizde charAt in içine lenght - (1,2,3,4...) yazarsak
+        // sondan kaçıncı karakteri istersek onu alırız.
 
         programlamaDili = "Phyton Programming";
         System.out.println("programlamaDili = " + programlamaDili); // boşlukları da sayar.
@@ -43,6 +45,7 @@ public class C02_StringMethods {
         programlamaDili = "PHYTON";
         //System.out.println("programlamaDili.charAt(8) = " + programlamaDili.charAt(8)); // eğer limit dışı verirsen;
                                                                                    //StringIndexOutOfBoundsException
+        //yani hata alırsın. metinden dahabüyük bir index number verirsen.
 
         System.out.println("-----------------------------------------------");
 
@@ -54,8 +57,10 @@ public class C02_StringMethods {
         String dil = " Programlama Dili";
         System.out.println("programlamaDili.concat(dil) = " + programlamaDili.concat(dil));
 
+         //programlamaDili.concat("buraya concat yani eklemek istedğimiz stringi yazıyoruz.")
         // biz normlade + ile concat yapıyorduk ama şimdi .concat() yapıp içine yazıp bitiriyorz.
         // veya yazmak istediğimizi bir stringe atayıp yine onu concatın içine yazabiliriz.Yukarıda ki örn gibi.
+        //arada boşluk bırakmadan concatlıyor o yüzden "" bu şekilde boşluk verebiliriz.
 
         System.out.println("-----------------------------------------------");
 
@@ -103,7 +108,7 @@ public class C02_StringMethods {
         // ilk a harfinin index numarasını verir. int olan ama  ---> indexOf
 
         System.out.println("programlamaDili.indexOf(\"Programlama\") = " + programlamaDili.indexOf("Programlama"));
-        // ilk bu kelimeyi yakaladığı index i verir ---> indexOf
+        // ilk bu kelimeyi yakaladığı indexi verir ---> indexOf
 
         System.out.println("programlamaDili.lastIndexOf('a') = " + programlamaDili.lastIndexOf('a'));
         // metin içinde ki son index a yı almak istersek. int bu da ---> lastIndexOf()
