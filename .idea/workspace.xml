@@ -4,46 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="String Class">
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C01_TwoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C02_Replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C03_Repeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C04_Empty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C05_EmailDomain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C06_BoslukDoldur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C07_Frekans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C08_UniqChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C09_HarfKaldır.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/C10_KarakterSayısı.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_StringClass2/ClassNote" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C01_Birthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C01_Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C02_ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C03_StackOverFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C04_HeapOverFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C05_Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarbageCollection/C06_VehicleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C01_ArraysIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C02_Arrays02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C03_AlternatifYol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C04_HaftanınGünleri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C05_Aylar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C06_ArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C07_ArrayLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C08_AlisVeris.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C09_ÜrünAra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C10_LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_Arrays01/C11_ArraysToString.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="array">
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C01_ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C02_ArrayForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C03_IsımBul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C04_CompareLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C05_ArrayParametre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C06_StringArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C07_LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C08_VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C09_SecretKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/day31_ClassNote" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C01_StringIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C01_StringIntro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C02_StringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C02_StringMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C05_Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C05_Substring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C08_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day26_StringClass01/C08_Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_StringClass01/C01_StringIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_StringClass01/C01_StringIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_StringClass01/C02_StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_StringClass01/C02_StringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_StringClass01/C03_IsEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_StringClass01/C03_IsEmpty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_StringClass01/C05_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_StringClass01/C05_Substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_StringClass01/C08_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_StringClass01/C08_Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +113,7 @@
     <setting file="file://$PROJECT_DIR$/src/day30_Arrays01/C01_ArraysIntro.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day30_Arrays01/C03_AlternatifYol.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day30_Arrays01/C10_LargestNumber.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day31_Arrays02/C06_StringArrays.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -150,29 +124,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Belgelerim/IdeaProjects/EU_B19_JavaProgramming&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Belgelerim/IdeaProjects/EU_B19_JavaProgramming",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C11_ArraysToString">
-    <configuration name="C07_ArrayLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C07_ArrayLoop" />
+  <component name="RunManager" selected="Application.C09_SecretKey">
+    <configuration name="C01_ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C01_ForEach" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day30_Arrays01.*" />
+          <option name="PATTERN" value="day31_Arrays02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_AlisVeris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C08_AlisVeris" />
+    <configuration name="C06_StringArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C06_StringArrays" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day30_Arrays01.*" />
+          <option name="PATTERN" value="day31_Arrays02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_ÜrünAra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C09_ÜrünAra" />
+    <configuration name="C07_LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C07_LargestNumber" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day30_Arrays01.*" />
+          <option name="PATTERN" value="day31_Arrays02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C10_LargestNumber" />
+    <configuration name="C08_VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C08_VarArgs" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day30_Arrays01.*" />
+          <option name="PATTERN" value="day31_Arrays02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_ArraysToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C11_ArraysToString" />
+    <configuration name="C09_SecretKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C09_SecretKey" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day30_Arrays01.*" />
+          <option name="PATTERN" value="day31_Arrays02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C11_ArraysToString" />
-        <item itemvalue="Application.C10_LargestNumber" />
-        <item itemvalue="Application.C09_ÜrünAra" />
-        <item itemvalue="Application.C08_AlisVeris" />
-        <item itemvalue="Application.C07_ArrayLoop" />
+        <item itemvalue="Application.C09_SecretKey" />
+        <item itemvalue="Application.C08_VarArgs" />
+        <item itemvalue="Application.C07_LargestNumber" />
+        <item itemvalue="Application.C01_ForEach" />
+        <item itemvalue="Application.C06_StringArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739898476707</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="array">
+      <created>1740427075382</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740427075382</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -397,7 +378,8 @@
     <MESSAGE value="Method Over Loading" />
     <MESSAGE value="Method" />
     <MESSAGE value="String Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="String Class" />
+    <MESSAGE value="array" />
+    <option name="LAST_COMMIT_MESSAGE" value="array" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
