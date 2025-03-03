@@ -4,19 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="array">
-      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C01_ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C02_ArrayForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C03_IsımBul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C04_CompareLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C05_ArrayParametre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C06_StringArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C07_LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C08_VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C09_SecretKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/day31_ClassNote" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="array 2">
+      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C08_LongestSubstringWithOutRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C10_Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Arrays02/C11_Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_MultiDimensionalArrays/C01_TwoDimensionalArrayExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_MultiDimensionalArrays/C02_TwoDimArrayPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_MultiDimensionalArrays/C03_TwoDimArrayPrintMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_MultiDimensionalArrays/C04_OgrenciNotlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_MultiDimensionalArrays/C05_Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_MultiDimensionalArrays/C06_OgrenciTestKontrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_MultiDimensionalArrays/C07_RaggedJagged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_MultiDimensionalArrays/C08_ThreeDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C00_ObjectArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C01_ReggedArraySentencesAndWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C02_Fix23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C03_ReverseArrayWithThreeElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C04_SumTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C05_Front11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C06_SumEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C07_ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C08_Without10_Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C09_FindPalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C10_MissingOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArrays/C11_EvenOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day30_Arrays01/C01_ArraysIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day30_Arrays01/C01_ArraysIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_Arrays01/C01_ArraysIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_Arrays01/C01_ArraysIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_Arrays01/C07_ArrayLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_Arrays01/C07_ArrayLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +155,7 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C09_SecretKey">
+  <component name="RunManager" selected="Application.C11_Homework02">
     <configuration name="C01_ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C01_ForEach" />
       <module name="EU_B19_Javaprogramming_IY" />
@@ -154,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_StringArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C06_StringArrays" />
+    <configuration name="C02_ArrayForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C02_ArrayForEach" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
@@ -167,8 +182,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C07_LargestNumber" />
+    <configuration name="C07_ArrayLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_Arrays01.C07_ArrayLoop" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_Arrays01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C10_Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C10_Homework" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
@@ -180,21 +208,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C08_VarArgs" />
-      <module name="EU_B19_Javaprogramming_IY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day31_Arrays02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C09_SecretKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C09_SecretKey" />
+    <configuration name="C11_Homework02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C11_Homework02" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
@@ -208,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C09_SecretKey" />
-        <item itemvalue="Application.C08_VarArgs" />
-        <item itemvalue="Application.C07_LargestNumber" />
+        <item itemvalue="Application.C11_Homework02" />
+        <item itemvalue="Application.C10_Homework" />
+        <item itemvalue="Application.C02_ArrayForEach" />
         <item itemvalue="Application.C01_ForEach" />
-        <item itemvalue="Application.C06_StringArrays" />
+        <item itemvalue="Application.C07_ArrayLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740427075382</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="array 2">
+      <created>1740589262950</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740589262950</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,7 +401,8 @@
     <MESSAGE value="Method" />
     <MESSAGE value="String Class" />
     <MESSAGE value="array" />
-    <option name="LAST_COMMIT_MESSAGE" value="array" />
+    <MESSAGE value="array 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="array 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

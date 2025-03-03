@@ -58,5 +58,10 @@ public class C01_ArraysIntro {
 
         System.out.println("i = " + i);
 
+        int [] numbers = new int[5];
+        for (int j = 0; j < numbers.length; j++) {
+            System.out.println("numbers[i] = " + numbers[i]);
+        }
+
     }
 }
