@@ -20,11 +20,23 @@ public class C07_RemoveDuplicate {
 
         System.out.println("names = " + names);
 
-        //Collections.sort(names);
-       //System.out.println("names = " + names);
-    }
-    //tekrar eden isimler silinecek..
-    //her isim sadece bir kere listede kalcak
-    // bu soruyu sort ile yapınız
+        System.out.println( "Yeni isim listesi : "   +  tekrarEdenIsımler(names));
 
+
+    }
+    public static ArrayList<String> tekrarEdenIsımler(ArrayList<String> list){
+        ArrayList<String> ısımListesi = new ArrayList<>();
+        
+        for (String name  :list ) {
+        		    if (!ısımListesi.contains(name)){
+                        ısımListesi.add(name);
+                    }
+        		}
+        Collections.sort(ısımListesi);
+        return ısımListesi;
+    }
 }
+//tekrar eden isimler silinecek..
+//her isim sadece bir kere listede kalcak
+// bu soruyu sort ile yapınız
+//contains içeriyor mu

@@ -4,31 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="two dim array">
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C01_WrapperClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C02_WrapperParseMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C03_ScannerInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C04_AutoBoxingAndUnboxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C05_WrapperLetterIsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C06_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C01_ArrayListIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C02_Remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C03_Cities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C04_AddAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C05_Contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C06_EgualsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C07_RemoveAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C08_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C09_Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C01_ObjectArrayAndArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C02_ArrayListReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C03_WrapperClassesReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C04_RemoveInALoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C05_FilterRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C06_EnKüçükEnBasa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C07_RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C08_BigInteger.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="Wrapper and ArrayList">
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Banka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/BankaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Musteri.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day36_Review/C04_RemoveInALoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day36_Review/C04_RemoveInALoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day36_Review/C07_RemoveDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day36_Review/C07_RemoveDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_Review/C07_RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day36_Review/C07_RemoveDuplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +110,9 @@
     <setting file="file://$PROJECT_DIR$/src/day30_Arrays01/C03_AlternatifYol.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day30_Arrays01/C10_LargestNumber.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day31_Arrays02/C06_StringArrays.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day36_Review/C07_RemoveDuplicate.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/BankaTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Circle.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -148,43 +135,20 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day37_Constructors_PassingObjects01" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C08_BigInteger">
-    <configuration name="C03_WrapperClassesReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Review.C03_WrapperClassesReview" />
+  <component name="RunManager" selected="Application.BankaTest">
+    <configuration name="BankaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Constructors_PassingObjects01.BankaTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_Review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_RemoveInALoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Review.C04_RemoveInALoop" />
-      <module name="EU_B19_Javaprogramming_IY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day36_Review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_FilterRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Review.C05_FilterRange" />
-      <module name="EU_B19_Javaprogramming_IY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day36_Review.*" />
+          <option name="PATTERN" value="day37_Constructors_PassingObjects01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,6 +158,19 @@
     </configuration>
     <configuration name="C07_EnKüçükEnBasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day36_Review.C07_EnKüçükEnBasa" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day36_Review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_Review.C07_RemoveDuplicate" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
@@ -218,13 +195,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Constructors_PassingObjects01.Circle" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day37_Constructors_PassingObjects01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankaTest" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.C07_RemoveDuplicate" />
         <item itemvalue="Application.C08_BigInteger" />
         <item itemvalue="Application.C07_EnKüçükEnBasa" />
-        <item itemvalue="Application.C05_FilterRange" />
-        <item itemvalue="Application.C04_RemoveInALoop" />
-        <item itemvalue="Application.C03_WrapperClassesReview" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741026134050</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Wrapper and ArrayList">
+      <created>1741282880058</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1741282880058</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +404,8 @@
     <MESSAGE value="array" />
     <MESSAGE value="array 2" />
     <MESSAGE value="two dim array" />
-    <option name="LAST_COMMIT_MESSAGE" value="two dim array" />
+    <MESSAGE value="Wrapper and ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrapper and ArrayList" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
