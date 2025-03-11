@@ -43,13 +43,55 @@ public class Banka {
             musteri.bakiye += miktar;
         }
     }
-    public void paraCek(Musteri musteri, double miktar){
-        if (miktar >0 && musteri.bakiye >= miktar){
+
+    public void paraCek(Musteri musteri, double miktar) {
+        if (miktar > 0 && musteri.bakiye >= miktar) {
             musteri.bakiye -= miktar;
-        }else {
+        } else {
             System.out.println("Hesabınızda yeterli bakiye yok.");
-            System.out.println("En Fazla " + musteri.bakiye+ " TL miktarında para çekebilirsiniz.");
+            System.out.println("En Fazla " + musteri.bakiye + " TL miktarında para çekebilirsiniz.");
         }
+
+    }
+
+    public void findByHesapNo(int hesapNo) {
+        System.out.println("Hesap Numarsaı ile Müşteri Bulma");
+        System.out.println("------------------------------------------------");
+
+        boolean isFound = true;
+
+        for (Musteri musteri : musteriler) {
+            if (musteri.hesapNo == hesapNo) {
+                isFound=false;
+                musteri.showInfo();
+                break;
+            }
+        }
+        if (isFound ){
+            System.out.println(hesapNo + " hesap numaralı müşteri yoktur !!");
+        }
+
+    }
+
+    public void findByName(String name){
+        System.out.println("İsim ile Müşteri Bulma");
+        System.out.println("------------------------------------------------");
+
+       int count = 0;
+        for (Musteri musteri  : musteriler ) {
+        		    if (musteri.name.startsWith(name)){
+                        count++;
+                        musteri.showInfo();
+                        System.out.println("------------------------------");
+                    }
+        		}
+        if (count == 0){
+            System.out.println(name + " isminde bir müşteri yoktur.");
+        }else {
+            System.out.println(name + " isminde " + count + " adet müşteri vardır.");
+        }
+
+
     }
 
     public void müşteriListe() {
@@ -58,4 +100,6 @@ public class Banka {
             System.out.println("-------------------------");
         }
     }
+
+
 }

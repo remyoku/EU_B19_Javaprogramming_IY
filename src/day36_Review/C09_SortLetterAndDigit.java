@@ -6,6 +6,6 @@ public class C09_SortLetterAndDigit {
     }
     /*
     input : "DC501GCCCA098911"
-    output :"CD015ACCCG011899"
+    output :"CD-015-ACCCG-011899"
      */
 }

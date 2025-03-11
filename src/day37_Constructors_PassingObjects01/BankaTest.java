@@ -24,7 +24,7 @@ public class BankaTest {
         Musteri musteri = new Musteri("İrem Yokuş","90 5077989514");
         Musteri musteri1 = new Musteri("Eslem Yokuş","90- 5456955614");
         Musteri musteri2 = new Musteri("İkbal Yokuş","30- 3077659814");
-        Musteri musteri3 = new Musteri("Ömer Yokuş","49- 6639889514");
+        Musteri musteri3 = new Musteri("İrem Ebrar Yokuş","49- 6639889514");
 
         System.out.println("musteri.name = " + musteri.name);
 
@@ -49,5 +49,10 @@ public class BankaTest {
 
         banka2.paraCek(musteri,400);
         banka2.müşteriListe();
+
+        banka2.findByHesapNo(5001);
+        banka2.findByHesapNo(5011);
+
+        banka2.findByName("Ahmet");
     }
 }

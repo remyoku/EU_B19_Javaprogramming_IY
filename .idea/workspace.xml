@@ -4,15 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="Wrapper and ArrayList">
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Banka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/BankaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Musteri.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="Costructors">
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/MethodOverLoadingReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/Okul/Adres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/Okul/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/Okul/Okul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/Okul/OkulTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/AdresTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/Adress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/SimpleGetterAndSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/SimpleGetterAndSetterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day36_Review/C04_RemoveInALoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day36_Review/C04_RemoveInALoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day36_Review/C07_RemoveDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day36_Review/C07_RemoveDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day36_Review/C07_RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day36_Review/C07_RemoveDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day37_Constructors_PassingObjects01/Banka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day37_Constructors_PassingObjects01/Banka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day37_Constructors_PassingObjects01/BankaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day37_Constructors_PassingObjects01/BankaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_Review/C09_SortLetterAndDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day36_Review/C09_SortLetterAndDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Banka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/BankaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/BankaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -127,7 +139,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Belgelerim/IdeaProjects/EU_B19_JavaProgramming",
+    "last_opened_file_path": "C:/Users/Belgelerim/IdeaProjects/EU_B19_Javaprogramming_IY/src/day38_Constructors_PassingObjects02",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -142,13 +154,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BankaTest">
-    <configuration name="BankaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Constructors_PassingObjects01.BankaTest" />
+  <component name="RunManager" selected="Application.PersonTest">
+    <configuration name="AdresTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_Encapsulation01.AdresTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_Constructors_PassingObjects01.*" />
+          <option name="PATTERN" value="day39_Encapsulation01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_EnKüçükEnBasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Review.C07_EnKüçükEnBasa" />
+    <configuration name="OkulTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructors_PassingObjects02.Okul.OkulTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_Review.*" />
+          <option name="PATTERN" value="day38_Constructors_PassingObjects02.Okul.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Review.C07_RemoveDuplicate" />
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_Encapsulation01.PersonTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_Review.*" />
+          <option name="PATTERN" value="day39_Encapsulation01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_BigInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Review.C08_BigInteger" />
+    <configuration name="SimpleGetterAndSetterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_Encapsulation01.SimpleGetterAndSetterTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_Review.*" />
+          <option name="PATTERN" value="day39_Encapsulation01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Constructors_PassingObjects01.Circle" />
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructors_PassingObjects02.StudentTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_Constructors_PassingObjects01.*" />
+          <option name="PATTERN" value="day38_Constructors_PassingObjects02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankaTest" />
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.C07_RemoveDuplicate" />
-        <item itemvalue="Application.C08_BigInteger" />
-        <item itemvalue="Application.C07_EnKüçükEnBasa" />
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.AdresTest" />
+        <item itemvalue="Application.SimpleGetterAndSetterTest" />
+        <item itemvalue="Application.OkulTest" />
+        <item itemvalue="Application.StudentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741282880058</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Costructors">
+      <created>1741295707106</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1741295707106</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -405,7 +424,8 @@
     <MESSAGE value="array 2" />
     <MESSAGE value="two dim array" />
     <MESSAGE value="Wrapper and ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrapper and ArrayList" />
+    <MESSAGE value="Costructors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Costructors" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
