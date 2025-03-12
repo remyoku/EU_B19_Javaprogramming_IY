@@ -5,25 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="Costructors">
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/MethodOverLoadingReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/Okul/Adres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/Okul/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/Okul/Okul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/Okul/OkulTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors_PassingObjects02/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/AdresTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/Adress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/SimpleGetterAndSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/SimpleGetterAndSetterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation02/Bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation02/Bank/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation02/Bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation02/Bank/BankaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation02/Bank/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation02/ReadOnlyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation02/ReadOnlyClassTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day37_Constructors_PassingObjects01/Banka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day37_Constructors_PassingObjects01/Banka.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day37_Constructors_PassingObjects01/BankaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day37_Constructors_PassingObjects01/BankaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day36_Review/C09_SortLetterAndDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day36_Review/C09_SortLetterAndDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Banka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/BankaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/BankaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day39_Encapsulation01/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day39_Encapsulation01/Person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,17 +125,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Belgelerim/IdeaProjects/EU_B19_Javaprogramming_IY/src/day38_Constructors_PassingObjects02",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Belgelerim/IdeaProjects/EU_B19_Javaprogramming_IY/src/day38_Constructors_PassingObjects02&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="day37_Constructors_PassingObjects01" />
@@ -154,7 +144,20 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonTest">
+  <component name="RunManager" selected="Application.BankaTest">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day40_Encapsulation02.Bank.AccountTest" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day40_Encapsulation02.Bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AdresTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day39_Encapsulation01.AdresTest" />
       <module name="EU_B19_Javaprogramming_IY" />
@@ -168,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OkulTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructors_PassingObjects02.Okul.OkulTest" />
+    <configuration name="BankaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day40_Encapsulation02.Bank.BankaTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Constructors_PassingObjects02.Okul.*" />
+          <option name="PATTERN" value="day40_Encapsulation02.Bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,25 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleGetterAndSetterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_Encapsulation01.SimpleGetterAndSetterTest" />
+    <configuration name="ReadOnlyClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day40_Encapsulation02.ReadOnlyClassTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_Encapsulation01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructors_PassingObjects02.StudentTest" />
-      <module name="EU_B19_Javaprogramming_IY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day38_Constructors_PassingObjects02.*" />
+          <option name="PATTERN" value="day40_Encapsulation02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankaTest" />
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.ReadOnlyClassTest" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.AdresTest" />
-        <item itemvalue="Application.SimpleGetterAndSetterTest" />
-        <item itemvalue="Application.OkulTest" />
-        <item itemvalue="Application.StudentTest" />
       </list>
     </recent_temporary>
   </component>
