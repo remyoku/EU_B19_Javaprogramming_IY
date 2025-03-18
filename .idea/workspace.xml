@@ -4,19 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="encapsulation">
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/C01_PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/constructors/C01_Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/constructors/C02_StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/constructors/Deneme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C01_Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C02_EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C03_ImmutablePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C04_ImmutablePersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C05_WriteOnlyPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C06_WriteOnlyPersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C07_EmailClass.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="review">
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C01_Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C02_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C03_CountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C04_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C05_StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C06_Dinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C07_DinnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C08_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C09_CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C10_AllBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C11_AllBlocksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C12_OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C13_OuterClassTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_Encapsulation01/SimpleGetterAndSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/SimpleGetterAndSetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,13 +150,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C07_EmailClass">
-    <configuration name="C02_EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Review.encapsulation.C02_EmployeeTest" />
+  <component name="RunManager" selected="Application.C13_OuterClassTest">
+    <configuration name="C07_DinnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_StaticMembers.C07_DinnerTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Review.encapsulation.*" />
+          <option name="PATTERN" value="day42_StaticMembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Review.constructors.C02_StudentTest" />
+    <configuration name="C09_CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_StaticMembers.C09_CalculatorTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Review.constructors.*" />
+          <option name="PATTERN" value="day42_StaticMembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_ImmutablePersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Review.encapsulation.C04_ImmutablePersonTest" />
+    <configuration name="C10_AllBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_StaticMembers.C10_AllBlocks" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Review.encapsulation.*" />
+          <option name="PATTERN" value="day42_StaticMembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_EmailClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Review.encapsulation.C07_EmailClass" />
+    <configuration name="C11_AllBlocksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_StaticMembers.C11_AllBlocksTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Review.encapsulation.*" />
+          <option name="PATTERN" value="day42_StaticMembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Review.constructors.Deneme" />
+    <configuration name="C13_OuterClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_StaticMembers.C13_OuterClassTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Review.constructors.*" />
+          <option name="PATTERN" value="day42_StaticMembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C07_EmailClass" />
-        <item itemvalue="Application.C04_ImmutablePersonTest" />
-        <item itemvalue="Application.C02_EmployeeTest" />
-        <item itemvalue="Application.Deneme" />
-        <item itemvalue="Application.C02_StudentTest" />
+        <item itemvalue="Application.C13_OuterClassTest" />
+        <item itemvalue="Application.C10_AllBlocks" />
+        <item itemvalue="Application.C11_AllBlocksTest" />
+        <item itemvalue="Application.C09_CalculatorTest" />
+        <item itemvalue="Application.C07_DinnerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741813907151</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="review">
+      <created>1741901172886</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1741901172886</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -426,7 +436,8 @@
     <MESSAGE value="Wrapper and ArrayList" />
     <MESSAGE value="Costructors" />
     <MESSAGE value="encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="encapsulation" />
+    <MESSAGE value="review" />
+    <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
