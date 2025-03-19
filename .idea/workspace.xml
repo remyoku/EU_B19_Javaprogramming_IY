@@ -4,22 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="review">
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C01_Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C02_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C03_CountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C04_Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C05_StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C06_Dinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C07_DinnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C08_Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C09_CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C10_AllBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C11_AllBlocksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C12_OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_StaticMembers/C13_OuterClassTest.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="getter">
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/Lawyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/Secretary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/MultiLevelInheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/MultiLevelInheritance/GrandParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/MultiLevelInheritance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/MultiLevelInheritance/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Vehicle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Vehicle/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Vehicle/VehicleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day39_Encapsulation01/SimpleGetterAndSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_Encapsulation01/SimpleGetterAndSetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,48 +149,9 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C13_OuterClassTest">
-    <configuration name="C07_DinnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_StaticMembers.C07_DinnerTest" />
-      <module name="EU_B19_Javaprogramming_IY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day42_StaticMembers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C09_CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_StaticMembers.C09_CalculatorTest" />
-      <module name="EU_B19_Javaprogramming_IY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day42_StaticMembers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestClass">
     <configuration name="C10_AllBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day42_StaticMembers.C10_AllBlocks" />
-      <module name="EU_B19_Javaprogramming_IY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day42_StaticMembers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C11_AllBlocksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_StaticMembers.C11_AllBlocksTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
@@ -216,13 +176,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.Employee.EmployeeTest" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day43_Inheritance.Employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.MultiLevelInheritance.TestClass" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day43_Inheritance.MultiLevelInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.Vehicle.VehicleTest" />
+      <module name="EU_B19_Javaprogramming_IY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day43_Inheritance.Vehicle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.VehicleTest" />
+        <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.C13_OuterClassTest" />
         <item itemvalue="Application.C10_AllBlocks" />
-        <item itemvalue="Application.C11_AllBlocksTest" />
-        <item itemvalue="Application.C09_CalculatorTest" />
-        <item itemvalue="Application.C07_DinnerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741901172886</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="getter">
+      <created>1742322939964</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1742322939964</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +443,8 @@
     <MESSAGE value="Costructors" />
     <MESSAGE value="encapsulation" />
     <MESSAGE value="review" />
-    <option name="LAST_COMMIT_MESSAGE" value="review" />
+    <MESSAGE value="getter" />
+    <option name="LAST_COMMIT_MESSAGE" value="getter" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
