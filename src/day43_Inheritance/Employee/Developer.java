@@ -9,6 +9,8 @@ public class Developer extends Employee {
      * parent-child
      * base-derived
      *
+     * extends ile baba ve cocuklar arasında is a relationship bağı kurulur.
+     *
      * kodun tekrarını engellemek ve kod tekrarından kurtulmak amacı
      * bulunduğu konuma göre erişim imkanı sağlıyor.
      * kardeşler arasında bir erişim yok
