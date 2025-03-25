@@ -4,59 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="ınheritance">
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/AnimalProject/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/AnimalProject/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/AnimalProject/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/AnimalProject/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/Calculator/AdvanceCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/Calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/Calculator/FlightCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/Calculator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/Calculator/ScinCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/ParentProject/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/ParentProject/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/ParentProject/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/PersonProject/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/PersonProject/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/PersonProject/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/VehicleProject/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/VehicleProject/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/VehicleProject/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Inheritance_02/VehicleProject/VehicleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/A/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/A/ATest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/BankAccountProject/Akbank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/BankAccountProject/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/BankAccountProject/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/BankAccountProject/GarantiBankasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/BankAccountProject/YapıKredi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/CityReadOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/ShapeProject/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/ShapeProject/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/ShapeProject/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/ShapeProject/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/C00_INTRO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Constructor/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Constructor/OgrenciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/AccessModifiersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/OgrenciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/OgrenciTestInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageB/PackageB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageB/ProtectedBInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Singleton/Single.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Singleton/SingleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/ZooTest.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="access modifiers">
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/C00_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VariableHiding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VariableHiding/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VariableHiding/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day43_Inheritance/Employee/Developer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day43_Inheritance/Employee/Developer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day43_Inheritance/Employee/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/Developer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,13 +147,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZooTest">
-    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.Zoo.AnimalTest" />
+  <component name="RunManager" selected="Application.day47_FinalKeyword_VarMethodHiding.MethodHiding.Test">
+    <configuration name="FinalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.FinalArrays" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day46_AccessModifiers.Zoo.*" />
+          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OgrenciTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.PackageA.OgrenciTest" />
+    <configuration name="FinalVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.FinalVariables" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day46_AccessModifiers.PackageA.*" />
+          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProtectedBInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.PackageB.ProtectedBInheritance" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.Main" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day46_AccessModifiers.PackageB.*" />
+          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.Singleton.SingleTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.VariableHiding.Test" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day46_AccessModifiers.Singleton.*" />
+          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.VariableHiding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZooTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.Zoo.ZooTest" />
+    <configuration name="day47_FinalKeyword_VarMethodHiding.MethodHiding.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.MethodHiding.Test" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day46_AccessModifiers.Zoo.*" />
+          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.MethodHiding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZooTest" />
-        <item itemvalue="Application.AnimalTest" />
-        <item itemvalue="Application.SingleTest" />
-        <item itemvalue="Application.OgrenciTest" />
-        <item itemvalue="Application.ProtectedBInheritance" />
+        <item itemvalue="Application.day47_FinalKeyword_VarMethodHiding.MethodHiding.Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FinalArrays" />
+        <item itemvalue="Application.FinalVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1742409265901</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="access modifiers">
+      <created>1742926786529</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1742926786529</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +457,8 @@
     <MESSAGE value="review" />
     <MESSAGE value="getter" />
     <MESSAGE value="ınheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="ınheritance" />
+    <MESSAGE value="access modifiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="access modifiers" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
