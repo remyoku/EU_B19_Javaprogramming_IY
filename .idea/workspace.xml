@@ -5,17 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="access modifiers">
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/C00_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VariableHiding/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VariableHiding/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VariableHiding/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/AbstractIntro/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/AbstractIntro/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/AbstractIntro/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/AbstractIntro/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/C00_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/BaseCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/CakeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/CevizliKek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/CikolatalıKek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/SadeKek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/VanilyalıKek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/MultiLevelInheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/MultiLevelInheritance/GrandParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/MultiLevelInheritance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/Otopark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/OtoparkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/VehicleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,13 +156,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day47_FinalKeyword_VarMethodHiding.MethodHiding.Test">
-    <configuration name="FinalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.FinalArrays" />
+  <component name="RunManager" selected="Application.CakeTest">
+    <configuration name="CakeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day48_AbstracClass.Cake.CakeTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.*" />
+          <option name="PATTERN" value="day48_AbstracClass.Cake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.FinalVariables" />
+    <configuration name="OtoparkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day48_AbstracClass.Vehicle.OtoparkTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.*" />
+          <option name="PATTERN" value="day48_AbstracClass.Vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.Main" />
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day48_AbstracClass.AbstractIntro.ShapeTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.FinalKeyword.*" />
+          <option name="PATTERN" value="day48_AbstracClass.AbstractIntro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.VariableHiding.Test" />
+    <configuration name="VehicleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day48_AbstracClass.Vehicle.VehicleTest" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.VariableHiding.*" />
+          <option name="PATTERN" value="day48_AbstracClass.Vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CakeTest" />
+        <item itemvalue="Application.OtoparkTest" />
+        <item itemvalue="Application.VehicleTest" />
+        <item itemvalue="Application.ShapeTest" />
         <item itemvalue="Application.day47_FinalKeyword_VarMethodHiding.MethodHiding.Test" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FinalArrays" />
-        <item itemvalue="Application.FinalVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1742926786529</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="access modifiers">
+      <created>1742936100990</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1742936100990</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
