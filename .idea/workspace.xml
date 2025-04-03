@@ -4,27 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="access modifiers">
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/AbstractIntro/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/AbstractIntro/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/AbstractIntro/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/AbstractIntro/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/C00_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/BaseCake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/CakeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/CevizliKek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/CikolatalıKek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/SadeKek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Cake/VanilyalıKek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/MultiLevelInheritance/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/MultiLevelInheritance/GrandParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/MultiLevelInheritance/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/Otopark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/OtoparkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/Sedan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstracClass/Vehicle/VehicleTest.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="abstrac class">
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Swimable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/C00_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/Adressable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/C01_Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/C02_PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/C03_PersonRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C01_Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C02_ColorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C03_Brands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C04_Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C05_MyEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C06_MyEnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C07_Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C08_DeviceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/ShapeAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/C00_P_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/CompileTime/MethodOverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/MyInterFace/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/MyInterFace/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/MyInterFace/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/MyInterFace/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/RunTime/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/RunTime/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/RunTime/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/RunTime/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/RunTime/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C00_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C01_CompileTimeErrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C02_OutOfMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C03_OutOfMemoryErrorHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C04_ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C05_MultipleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C06_Checked_Unchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C07_Throws_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C08_Throw_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C09_UserDefinedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/Exceptions/AgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/Exceptions/NameException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +66,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -156,13 +186,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CakeTest">
-    <configuration name="CakeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day48_AbstracClass.Cake.CakeTest" />
+  <component name="RunManager" selected="Application.C08_Throw_Keyword">
+    <configuration name="C04_ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Error_Exceptions.C04_ExceptionHandling" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day48_AbstracClass.Cake.*" />
+          <option name="PATTERN" value="day52_Error_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OtoparkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day48_AbstracClass.Vehicle.OtoparkTest" />
+    <configuration name="C05_MultipleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Error_Exceptions.C05_MultipleException" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day48_AbstracClass.Vehicle.*" />
+          <option name="PATTERN" value="day52_Error_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day48_AbstracClass.AbstractIntro.ShapeTest" />
+    <configuration name="C06_Checked_Unchecked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Error_Exceptions.C06_Checked_Unchecked" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day48_AbstracClass.AbstractIntro.*" />
+          <option name="PATTERN" value="day52_Error_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day48_AbstracClass.Vehicle.VehicleTest" />
+    <configuration name="C07_Throws_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Error_Exceptions.C07_Throws_Keyword" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day48_AbstracClass.Vehicle.*" />
+          <option name="PATTERN" value="day52_Error_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day47_FinalKeyword_VarMethodHiding.MethodHiding.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.MethodHiding.Test" />
+    <configuration name="C08_Throw_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Error_Exceptions.C08_Throw_Keyword" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.MethodHiding.*" />
+          <option name="PATTERN" value="day52_Error_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CakeTest" />
-        <item itemvalue="Application.OtoparkTest" />
-        <item itemvalue="Application.VehicleTest" />
-        <item itemvalue="Application.ShapeTest" />
-        <item itemvalue="Application.day47_FinalKeyword_VarMethodHiding.MethodHiding.Test" />
+        <item itemvalue="Application.C08_Throw_Keyword" />
+        <item itemvalue="Application.C07_Throws_Keyword" />
+        <item itemvalue="Application.C06_Checked_Unchecked" />
+        <item itemvalue="Application.C05_MultipleException" />
+        <item itemvalue="Application.C04_ExceptionHandling" />
       </list>
     </recent_temporary>
   </component>
@@ -437,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1742936100990</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="abstrac class">
+      <created>1743100424015</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1743100424015</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +511,8 @@
     <MESSAGE value="getter" />
     <MESSAGE value="ınheritance" />
     <MESSAGE value="access modifiers" />
-    <option name="LAST_COMMIT_MESSAGE" value="access modifiers" />
+    <MESSAGE value="abstrac class" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstrac class" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
