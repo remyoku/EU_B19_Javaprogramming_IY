@@ -4,57 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="abstrac class">
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Swimable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/C00_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/Adressable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/C01_Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/C02_PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/C03_PersonRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C01_Colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C02_ColorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C03_Brands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C04_Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C05_MyEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C06_MyEnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C07_Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumaration/C08_DeviceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/ShapeAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/C00_P_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/CompileTime/MethodOverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/MyInterFace/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/MyInterFace/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/MyInterFace/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/MyInterFace/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/RunTime/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/RunTime/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/RunTime/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/RunTime/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism01/RunTime/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C00_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C01_CompileTimeErrors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C02_OutOfMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C03_OutOfMemoryErrorHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C04_ExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C05_MultipleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C06_Checked_Unchecked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C07_Throws_Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C08_Throw_Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C09_UserDefinedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/Exceptions/AgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/Exceptions/NameException.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="error">
+      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/C00_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/ListExampleArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/ListExampleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/List_ArrayList/List_ArrayListAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/PerformanceAddSequential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/Stack/StackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/Stack/StackReverseArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/Vektor/ArrayListMultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Queue/ArrayDequeueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Queue/PriorityQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Queue/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Set/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Set/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Set/TreeSetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day52_Error_Exceptions/C08_Throw_Keyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day52_Error_Exceptions/C08_Throw_Keyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Error_Exceptions/C00_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C00_Intro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +124,7 @@
     <setting file="file://$PROJECT_DIR$/src/day36_Review/C07_RemoveDuplicate.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/BankaTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day37_Constructors_PassingObjects01/Circle.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day54_Collections_Queue_Set/Queue/PriorityQueueExample.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -186,13 +154,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C08_Throw_Keyword">
-    <configuration name="C04_ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Error_Exceptions.C04_ExceptionHandling" />
+  <component name="RunManager" selected="Application.SetExample">
+    <configuration name="ArrayDequeueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Collections_Queue_Set.Queue.ArrayDequeueExample" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Error_Exceptions.*" />
+          <option name="PATTERN" value="day54_Collections_Queue_Set.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_MultipleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Error_Exceptions.C05_MultipleException" />
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Collections_Queue_Set.Set.HashSetExample" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Error_Exceptions.*" />
+          <option name="PATTERN" value="day54_Collections_Queue_Set.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Checked_Unchecked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Error_Exceptions.C06_Checked_Unchecked" />
+    <configuration name="PriorityQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Collections_Queue_Set.Queue.PriorityQueueExample" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Error_Exceptions.*" />
+          <option name="PATTERN" value="day54_Collections_Queue_Set.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_Throws_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Error_Exceptions.C07_Throws_Keyword" />
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Collections_Queue_Set.Set.SetExample" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Error_Exceptions.*" />
+          <option name="PATTERN" value="day54_Collections_Queue_Set.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_Throw_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Error_Exceptions.C08_Throw_Keyword" />
+    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Collections_Queue_Set.Set.TreeSetExample" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Error_Exceptions.*" />
+          <option name="PATTERN" value="day54_Collections_Queue_Set.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C08_Throw_Keyword" />
-        <item itemvalue="Application.C07_Throws_Keyword" />
-        <item itemvalue="Application.C06_Checked_Unchecked" />
-        <item itemvalue="Application.C05_MultipleException" />
-        <item itemvalue="Application.C04_ExceptionHandling" />
+        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.TreeSetExample" />
+        <item itemvalue="Application.HashSetExample" />
+        <item itemvalue="Application.ArrayDequeueExample" />
+        <item itemvalue="Application.PriorityQueueExample" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1743100424015</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="error">
+      <created>1743711406088</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1743711406088</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,7 +487,8 @@
     <MESSAGE value="ınheritance" />
     <MESSAGE value="access modifiers" />
     <MESSAGE value="abstrac class" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstrac class" />
+    <MESSAGE value="error" />
+    <option name="LAST_COMMIT_MESSAGE" value="error" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

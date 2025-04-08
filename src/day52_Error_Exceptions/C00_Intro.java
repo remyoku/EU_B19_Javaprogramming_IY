@@ -32,4 +32,5 @@ public class C00_Intro {
      * hatanın yönetimini sağlamak
      *
      */
+
 }
