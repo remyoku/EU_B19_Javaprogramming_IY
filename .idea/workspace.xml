@@ -4,29 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="error">
-      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/C00_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/ListExampleArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/ListExampleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/List_ArrayList/List_ArrayListAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/PerformanceAddSequential.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/Stack/StackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/Stack/StackReverseArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collactions_List/Vektor/ArrayListMultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Queue/ArrayDequeueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Queue/PriorityQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Queue/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Set/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Set/SetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Collections_Queue_Set/Set/TreeSetExample.java" afterDir="false" />
+    <list default="true" id="5bca3be8-d9e5-4caa-aac6-b564c0642bd3" name="Changes" comment="collaction">
+      <change afterPath="$PROJECT_DIR$/src/day55_Map/C01_Maps_Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_Map/C02_Maps_Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_Map/C03_Maps_Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_Map/C04_Maps_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C01_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C02_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C03_SetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C04_SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C05_Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C06_MapsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C07_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C08_EntrySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C09_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C10_Java8ForEachMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C11_RemoveIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day56_CollectionReview/C12_ListOfMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day52_Error_Exceptions/C08_Throw_Keyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_Javaprogramming_IY/day52_Error_Exceptions/C08_Throw_Keyword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day52_Error_Exceptions/C00_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Error_Exceptions/C00_Intro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,17 +138,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Belgelerim/IdeaProjects/EU_B19_Javaprogramming_IY/src/day38_Constructors_PassingObjects02&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Belgelerim/IdeaProjects/EU_B19_Javaprogramming_IY/src/day38_Constructors_PassingObjects02",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="day37_Constructors_PassingObjects01" />
@@ -154,13 +157,13 @@
       <recent name="day18_Review_BranchmentAndLabeledStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetExample">
-    <configuration name="ArrayDequeueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Collections_Queue_Set.Queue.ArrayDequeueExample" />
+  <component name="RunManager" selected="Application.C12_ListOfMap">
+    <configuration name="C07_Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day56_CollectionReview.C07_Iterator" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day54_Collections_Queue_Set.Queue.*" />
+          <option name="PATTERN" value="day56_CollectionReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Collections_Queue_Set.Set.HashSetExample" />
+    <configuration name="C09_ListIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day56_CollectionReview.C09_ListIterator" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day54_Collections_Queue_Set.Set.*" />
+          <option name="PATTERN" value="day56_CollectionReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Collections_Queue_Set.Queue.PriorityQueueExample" />
+    <configuration name="C10_Java8ForEachMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day56_CollectionReview.C10_Java8ForEachMethod" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day54_Collections_Queue_Set.Queue.*" />
+          <option name="PATTERN" value="day56_CollectionReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Collections_Queue_Set.Set.SetExample" />
+    <configuration name="C11_RemoveIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day56_CollectionReview.C11_RemoveIf" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day54_Collections_Queue_Set.Set.*" />
+          <option name="PATTERN" value="day56_CollectionReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Collections_Queue_Set.Set.TreeSetExample" />
+    <configuration name="C12_ListOfMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day56_CollectionReview.C12_ListOfMap" />
       <module name="EU_B19_Javaprogramming_IY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day54_Collections_Queue_Set.Set.*" />
+          <option name="PATTERN" value="day56_CollectionReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.TreeSetExample" />
-        <item itemvalue="Application.HashSetExample" />
-        <item itemvalue="Application.ArrayDequeueExample" />
-        <item itemvalue="Application.PriorityQueueExample" />
+        <item itemvalue="Application.C12_ListOfMap" />
+        <item itemvalue="Application.C11_RemoveIf" />
+        <item itemvalue="Application.C10_Java8ForEachMethod" />
+        <item itemvalue="Application.C09_ListIterator" />
+        <item itemvalue="Application.C07_Iterator" />
       </list>
     </recent_temporary>
   </component>
@@ -449,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1743711406088</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="collaction">
+      <created>1744139171138</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1744139171138</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +498,8 @@
     <MESSAGE value="access modifiers" />
     <MESSAGE value="abstrac class" />
     <MESSAGE value="error" />
-    <option name="LAST_COMMIT_MESSAGE" value="error" />
+    <MESSAGE value="collaction" />
+    <option name="LAST_COMMIT_MESSAGE" value="collaction" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
